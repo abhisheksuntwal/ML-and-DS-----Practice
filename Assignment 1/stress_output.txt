@@ -1,0 +1,624 @@
+For Max iterations=1 Number of restarts=1 Learning Rate=0.010000 
+Training Total:=7230 Training Correct=1851 Training Accuracy=25.601660 
+Testing Accuracy=20.229218 
+
+
+
+For Max iterations=1 Number of restarts=1 Learning Rate=0.100000 
+Training Total:=7230 Training Correct=1868 Training Accuracy=25.836791 
+Testing Accuracy=20.201602 
+
+
+
+For Max iterations=1 Number of restarts=1 Learning Rate=1.000000 
+Training Total:=7230 Training Correct=1881 Training Accuracy=26.016598 
+Testing Accuracy=20.505385 
+
+
+
+For Max iterations=1 Number of restarts=5 Learning Rate=0.010000 
+Training Total:=7230 Training Correct=1908 Training Accuracy=26.390041 
+Testing Accuracy=20.008285 
+
+
+
+For Max iterations=1 Number of restarts=5 Learning Rate=0.100000 
+Training Total:=7230 Training Correct=1896 Training Accuracy=26.224066 
+Testing Accuracy=19.759735 
+
+
+
+For Max iterations=1 Number of restarts=5 Learning Rate=1.000000 
+Training Total:=7230 Training Correct=1852 Training Accuracy=25.615491 
+Testing Accuracy=20.615852 
+
+
+
+For Max iterations=1 Number of restarts=10 Learning Rate=0.010000 
+Training Total:=7230 Training Correct=1812 Training Accuracy=25.062241 
+Testing Accuracy=19.980668 
+
+
+
+For Max iterations=1 Number of restarts=10 Learning Rate=0.100000 
+Training Total:=7230 Training Correct=1838 Training Accuracy=25.421853 
+Testing Accuracy=20.339685 
+
+
+
+For Max iterations=1 Number of restarts=10 Learning Rate=1.000000 
+Training Total:=7230 Training Correct=1864 Training Accuracy=25.781466 
+Testing Accuracy=19.925435 
+
+
+
+For Max iterations=1 Number of restarts=20 Learning Rate=0.010000 
+Training Total:=7230 Training Correct=1832 Training Accuracy=25.338866 
+Testing Accuracy=20.822977 
+
+
+
+For Max iterations=1 Number of restarts=20 Learning Rate=0.100000 
+Training Total:=7230 Training Correct=1859 Training Accuracy=25.712310 
+Testing Accuracy=19.773543 
+
+
+
+For Max iterations=1 Number of restarts=20 Learning Rate=1.000000 
+Training Total:=7230 Training Correct=1831 Training Accuracy=25.325035 
+Testing Accuracy=18.696493 
+
+
+
+For Max iterations=5 Number of restarts=1 Learning Rate=0.010000 
+Training Total:=7230 Training Correct=1889 Training Accuracy=26.127248 
+Training Total:=7230 Training Correct=1907 Training Accuracy=26.376210 
+Training Total:=7230 Training Correct=1890 Training Accuracy=26.141079 
+Testing Accuracy=19.994477 
+
+
+
+For Max iterations=5 Number of restarts=1 Learning Rate=0.100000 
+Training Total:=7230 Training Correct=1803 Training Accuracy=24.937759 
+Training Total:=7230 Training Correct=1901 Training Accuracy=26.293223 
+Training Total:=7230 Training Correct=1846 Training Accuracy=25.532503 
+Testing Accuracy=19.828777 
+
+
+
+For Max iterations=5 Number of restarts=1 Learning Rate=1.000000 
+Training Total:=7230 Training Correct=1845 Training Accuracy=25.518672 
+Training Total:=7230 Training Correct=1877 Training Accuracy=25.961272 
+Training Total:=7230 Training Correct=1829 Training Accuracy=25.297372 
+Testing Accuracy=20.436344 
+
+
+
+For Max iterations=5 Number of restarts=5 Learning Rate=0.010000 
+Training Total:=7230 Training Correct=1807 Training Accuracy=24.993084 
+Training Total:=7230 Training Correct=1855 Training Accuracy=25.656985 
+Training Total:=7230 Training Correct=1920 Training Accuracy=26.556017 
+Testing Accuracy=19.856393 
+
+
+
+For Max iterations=5 Number of restarts=5 Learning Rate=0.100000 
+Training Total:=7230 Training Correct=1845 Training Accuracy=25.518672 
+Training Total:=7230 Training Correct=1811 Training Accuracy=25.048409 
+Training Total:=7230 Training Correct=1836 Training Accuracy=25.394191 
+Testing Accuracy=19.594035 
+
+
+
+For Max iterations=5 Number of restarts=5 Learning Rate=1.000000 
+Training Total:=7230 Training Correct=1803 Training Accuracy=24.937759 
+Training Total:=7230 Training Correct=1827 Training Accuracy=25.269710 
+Training Total:=7230 Training Correct=1873 Training Accuracy=25.905947 
+Testing Accuracy=20.118752 
+
+
+
+For Max iterations=5 Number of restarts=10 Learning Rate=0.010000 
+Training Total:=7230 Training Correct=1747 Training Accuracy=24.163209 
+Training Total:=7230 Training Correct=1853 Training Accuracy=25.629322 
+Training Total:=7230 Training Correct=1838 Training Accuracy=25.421853 
+Testing Accuracy=19.055510 
+
+
+
+For Max iterations=5 Number of restarts=10 Learning Rate=0.100000 
+Training Total:=7230 Training Correct=1835 Training Accuracy=25.380360 
+Training Total:=7230 Training Correct=1897 Training Accuracy=26.237898 
+Training Total:=7230 Training Correct=1861 Training Accuracy=25.739972 
+Testing Accuracy=19.635460 
+
+
+
+For Max iterations=5 Number of restarts=10 Learning Rate=1.000000 
+Training Total:=7230 Training Correct=1852 Training Accuracy=25.615491 
+Training Total:=7230 Training Correct=1817 Training Accuracy=25.131397 
+Training Total:=7230 Training Correct=1812 Training Accuracy=25.062241 
+Testing Accuracy=20.229218 
+
+
+
+For Max iterations=5 Number of restarts=20 Learning Rate=0.010000 
+Training Total:=7230 Training Correct=1857 Training Accuracy=25.684647 
+Training Total:=7230 Training Correct=1831 Training Accuracy=25.325035 
+Training Total:=7230 Training Correct=1826 Training Accuracy=25.255878 
+Testing Accuracy=19.842585 
+
+
+
+For Max iterations=5 Number of restarts=20 Learning Rate=0.100000 
+Training Total:=7230 Training Correct=1850 Training Accuracy=25.587828 
+Training Total:=7230 Training Correct=1791 Training Accuracy=24.771784 
+Training Total:=7230 Training Correct=1818 Training Accuracy=25.145228 
+Testing Accuracy=20.270643 
+
+
+
+For Max iterations=5 Number of restarts=20 Learning Rate=1.000000 
+Training Total:=7230 Training Correct=1852 Training Accuracy=25.615491 
+Training Total:=7230 Training Correct=1813 Training Accuracy=25.076072 
+Training Total:=7230 Training Correct=1785 Training Accuracy=24.688797 
+Testing Accuracy=21.195802 
+
+
+
+For Max iterations=10 Number of restarts=1 Learning Rate=0.010000 
+Training Total:=7230 Training Correct=1820 Training Accuracy=25.172891 
+Training Total:=7230 Training Correct=1849 Training Accuracy=25.573997 
+Training Total:=7230 Training Correct=1839 Training Accuracy=25.435685 
+Training Total:=7230 Training Correct=1825 Training Accuracy=25.242047 
+Training Total:=7230 Training Correct=1867 Training Accuracy=25.822960 
+Testing Accuracy=20.146368 
+
+
+
+For Max iterations=10 Number of restarts=1 Learning Rate=0.100000 
+Training Total:=7230 Training Correct=1801 Training Accuracy=24.910097 
+Training Total:=7230 Training Correct=1827 Training Accuracy=25.269710 
+Training Total:=7230 Training Correct=1832 Training Accuracy=25.338866 
+Training Total:=7230 Training Correct=1876 Training Accuracy=25.947441 
+Training Total:=7230 Training Correct=1886 Training Accuracy=26.085754 
+Testing Accuracy=19.980668 
+
+
+
+For Max iterations=10 Number of restarts=1 Learning Rate=1.000000 
+Training Total:=7230 Training Correct=1768 Training Accuracy=24.453665 
+Training Total:=7230 Training Correct=1861 Training Accuracy=25.739972 
+Training Total:=7230 Training Correct=1964 Training Accuracy=27.164592 
+Training Total:=7230 Training Correct=1830 Training Accuracy=25.311203 
+Training Total:=7230 Training Correct=1915 Training Accuracy=26.486860 
+Testing Accuracy=20.160177 
+
+
+
+For Max iterations=10 Number of restarts=5 Learning Rate=0.010000 
+Training Total:=7230 Training Correct=1780 Training Accuracy=24.619640 
+Training Total:=7230 Training Correct=1812 Training Accuracy=25.062241 
+Training Total:=7230 Training Correct=1860 Training Accuracy=25.726141 
+Training Total:=7230 Training Correct=1874 Training Accuracy=25.919779 
+Training Total:=7230 Training Correct=1894 Training Accuracy=26.196404 
+Testing Accuracy=20.022093 
+
+
+
+For Max iterations=10 Number of restarts=5 Learning Rate=0.100000 
+Training Total:=7230 Training Correct=1827 Training Accuracy=25.269710 
+Training Total:=7230 Training Correct=1867 Training Accuracy=25.822960 
+Training Total:=7230 Training Correct=1850 Training Accuracy=25.587828 
+Training Total:=7230 Training Correct=1840 Training Accuracy=25.449516 
+Training Total:=7230 Training Correct=1835 Training Accuracy=25.380360 
+Testing Accuracy=19.262635 
+
+
+
+For Max iterations=10 Number of restarts=5 Learning Rate=1.000000 
+Training Total:=7230 Training Correct=1899 Training Accuracy=26.265560 
+Training Total:=7230 Training Correct=1812 Training Accuracy=25.062241 
+Training Total:=7230 Training Correct=1830 Training Accuracy=25.311203 
+Training Total:=7230 Training Correct=1928 Training Accuracy=26.666667 
+Training Total:=7230 Training Correct=1899 Training Accuracy=26.265560 
+Testing Accuracy=20.560619 
+
+
+
+For Max iterations=10 Number of restarts=10 Learning Rate=0.010000 
+Training Total:=7230 Training Correct=1835 Training Accuracy=25.380360 
+Training Total:=7230 Training Correct=1849 Training Accuracy=25.573997 
+Training Total:=7230 Training Correct=1815 Training Accuracy=25.103734 
+Training Total:=7230 Training Correct=1816 Training Accuracy=25.117566 
+Training Total:=7230 Training Correct=1850 Training Accuracy=25.587828 
+Testing Accuracy=20.933444 
+
+
+
+For Max iterations=10 Number of restarts=10 Learning Rate=0.100000 
+Training Total:=7230 Training Correct=1847 Training Accuracy=25.546335 
+Training Total:=7230 Training Correct=1849 Training Accuracy=25.573997 
+Training Total:=7230 Training Correct=1916 Training Accuracy=26.500692 
+Training Total:=7230 Training Correct=1858 Training Accuracy=25.698479 
+Training Total:=7230 Training Correct=1831 Training Accuracy=25.325035 
+Testing Accuracy=19.455951 
+
+
+
+For Max iterations=10 Number of restarts=10 Learning Rate=1.000000 
+Training Total:=7230 Training Correct=1842 Training Accuracy=25.477178 
+Training Total:=7230 Training Correct=1754 Training Accuracy=24.260028 
+Training Total:=7230 Training Correct=1898 Training Accuracy=26.251729 
+Training Total:=7230 Training Correct=1800 Training Accuracy=24.896266 
+Training Total:=7230 Training Correct=1860 Training Accuracy=25.726141 
+Testing Accuracy=19.345485 
+
+
+
+For Max iterations=10 Number of restarts=20 Learning Rate=0.010000 
+Training Total:=7230 Training Correct=1872 Training Accuracy=25.892116 
+Training Total:=7230 Training Correct=1825 Training Accuracy=25.242047 
+Training Total:=7230 Training Correct=1835 Training Accuracy=25.380360 
+Training Total:=7230 Training Correct=1859 Training Accuracy=25.712310 
+Training Total:=7230 Training Correct=1859 Training Accuracy=25.712310 
+Testing Accuracy=19.759735 
+
+
+
+For Max iterations=10 Number of restarts=20 Learning Rate=0.100000 
+Training Total:=7230 Training Correct=1781 Training Accuracy=24.633472 
+Training Total:=7230 Training Correct=1818 Training Accuracy=25.145228 
+Training Total:=7230 Training Correct=1836 Training Accuracy=25.394191 
+Training Total:=7230 Training Correct=1833 Training Accuracy=25.352697 
+Training Total:=7230 Training Correct=1808 Training Accuracy=25.006916 
+Testing Accuracy=19.925435 
+
+
+
+For Max iterations=10 Number of restarts=20 Learning Rate=1.000000 
+Training Total:=7230 Training Correct=1848 Training Accuracy=25.560166 
+Training Total:=7230 Training Correct=1737 Training Accuracy=24.024896 
+Training Total:=7230 Training Correct=1836 Training Accuracy=25.394191 
+Training Total:=7230 Training Correct=1929 Training Accuracy=26.680498 
+Training Total:=7230 Training Correct=1812 Training Accuracy=25.062241 
+Testing Accuracy=20.919635 
+
+
+
+For Max iterations=15 Number of restarts=1 Learning Rate=0.010000 
+Training Total:=7230 Training Correct=1827 Training Accuracy=25.269710 
+Training Total:=7230 Training Correct=1810 Training Accuracy=25.034578 
+Training Total:=7230 Training Correct=1843 Training Accuracy=25.491010 
+Training Total:=7230 Training Correct=1884 Training Accuracy=26.058091 
+Training Total:=7230 Training Correct=1836 Training Accuracy=25.394191 
+Training Total:=7230 Training Correct=1831 Training Accuracy=25.325035 
+Training Total:=7230 Training Correct=1910 Training Accuracy=26.417704 
+Training Total:=7230 Training Correct=1852 Training Accuracy=25.615491 
+Testing Accuracy=19.828777 
+
+
+
+For Max iterations=15 Number of restarts=1 Learning Rate=0.100000 
+Training Total:=7230 Training Correct=1797 Training Accuracy=24.854772 
+Training Total:=7230 Training Correct=1820 Training Accuracy=25.172891 
+Training Total:=7230 Training Correct=1838 Training Accuracy=25.421853 
+Training Total:=7230 Training Correct=1874 Training Accuracy=25.919779 
+Training Total:=7230 Training Correct=1908 Training Accuracy=26.390041 
+Training Total:=7230 Training Correct=1917 Training Accuracy=26.514523 
+Training Total:=7230 Training Correct=1818 Training Accuracy=25.145228 
+Training Total:=7230 Training Correct=1876 Training Accuracy=25.947441 
+Testing Accuracy=20.035902 
+
+
+
+For Max iterations=15 Number of restarts=1 Learning Rate=1.000000 
+Training Total:=7230 Training Correct=1927 Training Accuracy=26.652835 
+Training Total:=7230 Training Correct=1835 Training Accuracy=25.380360 
+Training Total:=7230 Training Correct=1874 Training Accuracy=25.919779 
+Training Total:=7230 Training Correct=1859 Training Accuracy=25.712310 
+Training Total:=7230 Training Correct=1845 Training Accuracy=25.518672 
+Training Total:=7230 Training Correct=1903 Training Accuracy=26.320885 
+Training Total:=7230 Training Correct=1848 Training Accuracy=25.560166 
+Training Total:=7230 Training Correct=1837 Training Accuracy=25.408022 
+Testing Accuracy=20.615852 
+
+
+
+For Max iterations=15 Number of restarts=5 Learning Rate=0.010000 
+Training Total:=7230 Training Correct=1882 Training Accuracy=26.030429 
+Training Total:=7230 Training Correct=1825 Training Accuracy=25.242047 
+Training Total:=7230 Training Correct=1886 Training Accuracy=26.085754 
+Training Total:=7230 Training Correct=1847 Training Accuracy=25.546335 
+Training Total:=7230 Training Correct=1867 Training Accuracy=25.822960 
+Training Total:=7230 Training Correct=1831 Training Accuracy=25.325035 
+Training Total:=7230 Training Correct=1834 Training Accuracy=25.366528 
+Training Total:=7230 Training Correct=1885 Training Accuracy=26.071923 
+Testing Accuracy=19.621651 
+
+
+
+For Max iterations=15 Number of restarts=5 Learning Rate=0.100000 
+Training Total:=7230 Training Correct=1774 Training Accuracy=24.536653 
+Training Total:=7230 Training Correct=1868 Training Accuracy=25.836791 
+Training Total:=7230 Training Correct=1863 Training Accuracy=25.767635 
+Training Total:=7230 Training Correct=1875 Training Accuracy=25.933610 
+Training Total:=7230 Training Correct=1810 Training Accuracy=25.034578 
+Training Total:=7230 Training Correct=1863 Training Accuracy=25.767635 
+Training Total:=7230 Training Correct=1834 Training Accuracy=25.366528 
+Training Total:=7230 Training Correct=1838 Training Accuracy=25.421853 
+Testing Accuracy=20.408727 
+
+
+
+For Max iterations=15 Number of restarts=5 Learning Rate=1.000000 
+Training Total:=7230 Training Correct=1869 Training Accuracy=25.850622 
+Training Total:=7230 Training Correct=1883 Training Accuracy=26.044260 
+Training Total:=7230 Training Correct=1811 Training Accuracy=25.048409 
+Training Total:=7230 Training Correct=1803 Training Accuracy=24.937759 
+Training Total:=7230 Training Correct=1847 Training Accuracy=25.546335 
+Training Total:=7230 Training Correct=1883 Training Accuracy=26.044260 
+Training Total:=7230 Training Correct=1759 Training Accuracy=24.329184 
+Training Total:=7230 Training Correct=1890 Training Accuracy=26.141079 
+Testing Accuracy=20.629660 
+
+
+
+For Max iterations=15 Number of restarts=10 Learning Rate=0.010000 
+Training Total:=7230 Training Correct=1842 Training Accuracy=25.477178 
+Training Total:=7230 Training Correct=1825 Training Accuracy=25.242047 
+Training Total:=7230 Training Correct=1833 Training Accuracy=25.352697 
+Training Total:=7230 Training Correct=1827 Training Accuracy=25.269710 
+Training Total:=7230 Training Correct=1815 Training Accuracy=25.103734 
+Training Total:=7230 Training Correct=1861 Training Accuracy=25.739972 
+Training Total:=7230 Training Correct=1898 Training Accuracy=26.251729 
+Training Total:=7230 Training Correct=1820 Training Accuracy=25.172891 
+Testing Accuracy=19.773543 
+
+
+
+For Max iterations=15 Number of restarts=10 Learning Rate=0.100000 
+Training Total:=7230 Training Correct=1919 Training Accuracy=26.542185 
+Training Total:=7230 Training Correct=1839 Training Accuracy=25.435685 
+Training Total:=7230 Training Correct=1821 Training Accuracy=25.186722 
+Training Total:=7230 Training Correct=1820 Training Accuracy=25.172891 
+Training Total:=7230 Training Correct=1904 Training Accuracy=26.334716 
+Training Total:=7230 Training Correct=1827 Training Accuracy=25.269710 
+Training Total:=7230 Training Correct=1822 Training Accuracy=25.200553 
+Training Total:=7230 Training Correct=1911 Training Accuracy=26.431535 
+Testing Accuracy=19.759735 
+
+
+
+For Max iterations=15 Number of restarts=10 Learning Rate=1.000000 
+Training Total:=7230 Training Correct=1777 Training Accuracy=24.578147 
+Training Total:=7230 Training Correct=1896 Training Accuracy=26.224066 
+Training Total:=7230 Training Correct=1763 Training Accuracy=24.384509 
+Training Total:=7230 Training Correct=1806 Training Accuracy=24.979253 
+Training Total:=7230 Training Correct=1854 Training Accuracy=25.643154 
+Training Total:=7230 Training Correct=1823 Training Accuracy=25.214385 
+Training Total:=7230 Training Correct=1873 Training Accuracy=25.905947 
+Training Total:=7230 Training Correct=1870 Training Accuracy=25.864454 
+Testing Accuracy=20.422535 
+
+
+
+For Max iterations=15 Number of restarts=20 Learning Rate=0.010000 
+Training Total:=7230 Training Correct=1829 Training Accuracy=25.297372 
+Training Total:=7230 Training Correct=1823 Training Accuracy=25.214385 
+Training Total:=7230 Training Correct=1913 Training Accuracy=26.459198 
+Training Total:=7230 Training Correct=1874 Training Accuracy=25.919779 
+Training Total:=7230 Training Correct=1854 Training Accuracy=25.643154 
+Training Total:=7230 Training Correct=1809 Training Accuracy=25.020747 
+Training Total:=7230 Training Correct=1853 Training Accuracy=25.629322 
+Training Total:=7230 Training Correct=1875 Training Accuracy=25.933610 
+Testing Accuracy=19.221210 
+
+
+
+For Max iterations=15 Number of restarts=20 Learning Rate=0.100000 
+Training Total:=7230 Training Correct=1799 Training Accuracy=24.882434 
+Training Total:=7230 Training Correct=1882 Training Accuracy=26.030429 
+Training Total:=7230 Training Correct=1883 Training Accuracy=26.044260 
+Training Total:=7230 Training Correct=1850 Training Accuracy=25.587828 
+Training Total:=7230 Training Correct=1824 Training Accuracy=25.228216 
+Training Total:=7230 Training Correct=1875 Training Accuracy=25.933610 
+Training Total:=7230 Training Correct=1884 Training Accuracy=26.058091 
+Training Total:=7230 Training Correct=1781 Training Accuracy=24.633472 
+Testing Accuracy=20.588235 
+
+
+
+For Max iterations=15 Number of restarts=20 Learning Rate=1.000000 
+Training Total:=7230 Training Correct=1931 Training Accuracy=26.708160 
+Training Total:=7230 Training Correct=1846 Training Accuracy=25.532503 
+Training Total:=7230 Training Correct=1833 Training Accuracy=25.352697 
+Training Total:=7230 Training Correct=1814 Training Accuracy=25.089903 
+Training Total:=7230 Training Correct=1868 Training Accuracy=25.836791 
+Training Total:=7230 Training Correct=1850 Training Accuracy=25.587828 
+Training Total:=7230 Training Correct=1836 Training Accuracy=25.394191 
+Training Total:=7230 Training Correct=1814 Training Accuracy=25.089903 
+Testing Accuracy=19.759735 
+
+
+
+For Max iterations=20 Number of restarts=1 Learning Rate=0.010000 
+Training Total:=7230 Training Correct=1871 Training Accuracy=25.878285 
+Training Total:=7230 Training Correct=1832 Training Accuracy=25.338866 
+Training Total:=7230 Training Correct=1859 Training Accuracy=25.712310 
+Training Total:=7230 Training Correct=1811 Training Accuracy=25.048409 
+Training Total:=7230 Training Correct=1842 Training Accuracy=25.477178 
+Training Total:=7230 Training Correct=1899 Training Accuracy=26.265560 
+Training Total:=7230 Training Correct=1912 Training Accuracy=26.445367 
+Training Total:=7230 Training Correct=1841 Training Accuracy=25.463347 
+Training Total:=7230 Training Correct=1867 Training Accuracy=25.822960 
+Training Total:=7230 Training Correct=1890 Training Accuracy=26.141079 
+Testing Accuracy=20.077327 
+
+
+
+For Max iterations=20 Number of restarts=1 Learning Rate=0.100000 
+Training Total:=7230 Training Correct=1854 Training Accuracy=25.643154 
+Training Total:=7230 Training Correct=1840 Training Accuracy=25.449516 
+Training Total:=7230 Training Correct=1833 Training Accuracy=25.352697 
+Training Total:=7230 Training Correct=1848 Training Accuracy=25.560166 
+Training Total:=7230 Training Correct=1811 Training Accuracy=25.048409 
+Training Total:=7230 Training Correct=1846 Training Accuracy=25.532503 
+Training Total:=7230 Training Correct=1831 Training Accuracy=25.325035 
+Training Total:=7230 Training Correct=1857 Training Accuracy=25.684647 
+Training Total:=7230 Training Correct=1803 Training Accuracy=24.937759 
+Training Total:=7230 Training Correct=1844 Training Accuracy=25.504841 
+Testing Accuracy=19.594035 
+
+
+
+For Max iterations=20 Number of restarts=1 Learning Rate=1.000000 
+Training Total:=7230 Training Correct=1776 Training Accuracy=24.564315 
+Training Total:=7230 Training Correct=1882 Training Accuracy=26.030429 
+Training Total:=7230 Training Correct=1825 Training Accuracy=25.242047 
+Training Total:=7230 Training Correct=1856 Training Accuracy=25.670816 
+Training Total:=7230 Training Correct=1849 Training Accuracy=25.573997 
+Training Total:=7230 Training Correct=1791 Training Accuracy=24.771784 
+Training Total:=7230 Training Correct=1850 Training Accuracy=25.587828 
+Training Total:=7230 Training Correct=1854 Training Accuracy=25.643154 
+Training Total:=7230 Training Correct=1840 Training Accuracy=25.449516 
+Training Total:=7230 Training Correct=1905 Training Accuracy=26.348548 
+Testing Accuracy=19.856393 
+
+
+
+For Max iterations=20 Number of restarts=5 Learning Rate=0.010000 
+Training Total:=7230 Training Correct=1869 Training Accuracy=25.850622 
+Training Total:=7230 Training Correct=1870 Training Accuracy=25.864454 
+Training Total:=7230 Training Correct=1840 Training Accuracy=25.449516 
+Training Total:=7230 Training Correct=1853 Training Accuracy=25.629322 
+Training Total:=7230 Training Correct=1767 Training Accuracy=24.439834 
+Training Total:=7230 Training Correct=1816 Training Accuracy=25.117566 
+Training Total:=7230 Training Correct=1881 Training Accuracy=26.016598 
+Training Total:=7230 Training Correct=1857 Training Accuracy=25.684647 
+Training Total:=7230 Training Correct=1789 Training Accuracy=24.744122 
+Training Total:=7230 Training Correct=1866 Training Accuracy=25.809129 
+Testing Accuracy=19.373101 
+
+
+
+For Max iterations=20 Number of restarts=5 Learning Rate=0.100000 
+Training Total:=7230 Training Correct=1835 Training Accuracy=25.380360 
+Training Total:=7230 Training Correct=1853 Training Accuracy=25.629322 
+Training Total:=7230 Training Correct=1755 Training Accuracy=24.273859 
+Training Total:=7230 Training Correct=1880 Training Accuracy=26.002766 
+Training Total:=7230 Training Correct=1852 Training Accuracy=25.615491 
+Training Total:=7230 Training Correct=1868 Training Accuracy=25.836791 
+Training Total:=7230 Training Correct=1828 Training Accuracy=25.283541 
+Training Total:=7230 Training Correct=1839 Training Accuracy=25.435685 
+Training Total:=7230 Training Correct=1838 Training Accuracy=25.421853 
+Training Total:=7230 Training Correct=1881 Training Accuracy=26.016598 
+Testing Accuracy=20.215410 
+
+
+
+For Max iterations=20 Number of restarts=5 Learning Rate=1.000000 
+Training Total:=7230 Training Correct=1848 Training Accuracy=25.560166 
+Training Total:=7230 Training Correct=1851 Training Accuracy=25.601660 
+Training Total:=7230 Training Correct=1846 Training Accuracy=25.532503 
+Training Total:=7230 Training Correct=1900 Training Accuracy=26.279391 
+Training Total:=7230 Training Correct=1867 Training Accuracy=25.822960 
+Training Total:=7230 Training Correct=1826 Training Accuracy=25.255878 
+Training Total:=7230 Training Correct=1870 Training Accuracy=25.864454 
+Training Total:=7230 Training Correct=1887 Training Accuracy=26.099585 
+Training Total:=7230 Training Correct=1867 Training Accuracy=25.822960 
+Training Total:=7230 Training Correct=1827 Training Accuracy=25.269710 
+Testing Accuracy=19.511185 
+
+
+
+For Max iterations=20 Number of restarts=10 Learning Rate=0.010000 
+Training Total:=7230 Training Correct=1851 Training Accuracy=25.601660 
+Training Total:=7230 Training Correct=1856 Training Accuracy=25.670816 
+Training Total:=7230 Training Correct=1834 Training Accuracy=25.366528 
+Training Total:=7230 Training Correct=1865 Training Accuracy=25.795297 
+Training Total:=7230 Training Correct=1838 Training Accuracy=25.421853 
+Training Total:=7230 Training Correct=1803 Training Accuracy=24.937759 
+Training Total:=7230 Training Correct=1884 Training Accuracy=26.058091 
+Training Total:=7230 Training Correct=1779 Training Accuracy=24.605809 
+Training Total:=7230 Training Correct=1875 Training Accuracy=25.933610 
+Training Total:=7230 Training Correct=1865 Training Accuracy=25.795297 
+Testing Accuracy=19.594035 
+
+
+
+For Max iterations=20 Number of restarts=10 Learning Rate=0.100000 
+Training Total:=7230 Training Correct=1878 Training Accuracy=25.975104 
+Training Total:=7230 Training Correct=1831 Training Accuracy=25.325035 
+Training Total:=7230 Training Correct=1808 Training Accuracy=25.006916 
+Training Total:=7230 Training Correct=1806 Training Accuracy=24.979253 
+Training Total:=7230 Training Correct=1813 Training Accuracy=25.076072 
+Training Total:=7230 Training Correct=1885 Training Accuracy=26.071923 
+Training Total:=7230 Training Correct=1878 Training Accuracy=25.975104 
+Training Total:=7230 Training Correct=1885 Training Accuracy=26.071923 
+Training Total:=7230 Training Correct=1860 Training Accuracy=25.726141 
+Training Total:=7230 Training Correct=1836 Training Accuracy=25.394191 
+Testing Accuracy=19.442143 
+
+
+
+For Max iterations=20 Number of restarts=10 Learning Rate=1.000000 
+Training Total:=7230 Training Correct=1842 Training Accuracy=25.477178 
+Training Total:=7230 Training Correct=1808 Training Accuracy=25.006916 
+Training Total:=7230 Training Correct=1766 Training Accuracy=24.426003 
+Training Total:=7230 Training Correct=1849 Training Accuracy=25.573997 
+Training Total:=7230 Training Correct=1806 Training Accuracy=24.979253 
+Training Total:=7230 Training Correct=1873 Training Accuracy=25.905947 
+Training Total:=7230 Training Correct=1877 Training Accuracy=25.961272 
+Training Total:=7230 Training Correct=1780 Training Accuracy=24.619640 
+Training Total:=7230 Training Correct=1869 Training Accuracy=25.850622 
+Training Total:=7230 Training Correct=1823 Training Accuracy=25.214385 
+Testing Accuracy=20.215410 
+
+
+
+For Max iterations=20 Number of restarts=20 Learning Rate=0.010000 
+Training Total:=7230 Training Correct=1869 Training Accuracy=25.850622 
+Training Total:=7230 Training Correct=1806 Training Accuracy=24.979253 
+Training Total:=7230 Training Correct=1883 Training Accuracy=26.044260 
+Training Total:=7230 Training Correct=1862 Training Accuracy=25.753804 
+Training Total:=7230 Training Correct=1926 Training Accuracy=26.639004 
+Training Total:=7230 Training Correct=1857 Training Accuracy=25.684647 
+Training Total:=7230 Training Correct=1845 Training Accuracy=25.518672 
+Training Total:=7230 Training Correct=1845 Training Accuracy=25.518672 
+Training Total:=7230 Training Correct=1877 Training Accuracy=25.961272 
+Training Total:=7230 Training Correct=1899 Training Accuracy=26.265560 
+Testing Accuracy=20.588235 
+
+
+
+For Max iterations=20 Number of restarts=20 Learning Rate=0.100000 
+Training Total:=7230 Training Correct=1799 Training Accuracy=24.882434 
+Training Total:=7230 Training Correct=1889 Training Accuracy=26.127248 
+Training Total:=7230 Training Correct=1848 Training Accuracy=25.560166 
+Training Total:=7230 Training Correct=1855 Training Accuracy=25.656985 
+Training Total:=7230 Training Correct=1841 Training Accuracy=25.463347 
+Training Total:=7230 Training Correct=1820 Training Accuracy=25.172891 
+Training Total:=7230 Training Correct=1813 Training Accuracy=25.076072 
+Training Total:=7230 Training Correct=1925 Training Accuracy=26.625173 
+Training Total:=7230 Training Correct=1822 Training Accuracy=25.200553 
+Training Total:=7230 Training Correct=1896 Training Accuracy=26.224066 
+Testing Accuracy=20.270643 
+
+
+
+For Max iterations=20 Number of restarts=20 Learning Rate=1.000000 
+Training Total:=7230 Training Correct=1884 Training Accuracy=26.058091 
+Training Total:=7230 Training Correct=1811 Training Accuracy=25.048409 
+Training Total:=7230 Training Correct=1848 Training Accuracy=25.560166 
+Training Total:=7230 Training Correct=1791 Training Accuracy=24.771784 
+Training Total:=7230 Training Correct=1872 Training Accuracy=25.892116 
+Training Total:=7230 Training Correct=1861 Training Accuracy=25.739972 
+Training Total:=7230 Training Correct=1812 Training Accuracy=25.062241 
+Training Total:=7230 Training Correct=1810 Training Accuracy=25.034578 
+Training Total:=7230 Training Correct=1804 Training Accuracy=24.951591 
+Training Total:=7230 Training Correct=1792 Training Accuracy=24.785615 
+Testing Accuracy=20.132560 
+
+
+
