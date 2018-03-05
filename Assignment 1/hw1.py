@@ -195,9 +195,9 @@ def testing(final_weights, stress_x_train, stress_y_train, types, r):
     return testing_total, testing_correct
 
 def main():
-    # stress_train_file = "datasets/nettalk_stress_train_sample.txt"
-    stress_train_file = "datasets/nettalk_stress_train.txt"
-    stress_test_file = "datasets/nettalk_stress_test.txt"
+    # stress_train_file = "C:/Users/abhishek.suntwal/PycharmProjects/Practice/Structured Prediction/Assignment 1/datasets/nettalk_stress_train_sample.txt"
+    stress_train_file = "C:/Users/abhishek.suntwal/PycharmProjects/Practice/Structured Prediction/Assignment 1/datasets/nettalk_stress_train.txt"
+    stress_test_file = "C:/Users/abhishek.suntwal/PycharmProjects/Practice/Structured Prediction/Assignment 1/datasets/nettalk_stress_test.txt"
     stress_x_train, stress_y_train = format_inputs(stress_train_file)
     # print stress_x_train, stress_y_train
     stress_x_test, stress_y_test = format_inputs(stress_test_file)

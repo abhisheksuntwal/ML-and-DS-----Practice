@@ -31,7 +31,7 @@ def structured_perceptron(train):
 
 if __name__ == '__main__':
 
-    stress_train_file = "datasets/nettalk_stress_train_sample.txt"
+    stress_train_file = "C:/Users/abhishek.suntwal/PycharmProjects/Practice/Structured Prediction/Assignment 1/datasets/nettalk_stress_train_sample.txt"
     train = read_data(stress_train_file)
 
 

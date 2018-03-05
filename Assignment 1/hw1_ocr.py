@@ -197,8 +197,8 @@ def testing(final_weights, ocr_x_train, ocr_y_train, types, r):
 
 def main():
 
-    ocr_train_file = "datasets/ocr_fold0_sm_train_sample.txt"
-    ocr_test_file = "datasets/ocr_fold0_sm_test_sample.txt"
+    ocr_train_file = "C:/Users/abhishek.suntwal/PycharmProjects/Practice/Structured Prediction/Assignment 1/datasets/ocr_fold0_sm_train_sample.txt"
+    ocr_test_file = "C:/Users/abhishek.suntwal/PycharmProjects/Practice/Structured Prediction/Assignment 1/datasets/ocr_fold0_sm_test_sample.txt"
     ocr_x_train, ocr_y_train = format_inputs(ocr_train_file)
     ocr_x_test, ocr_y_test = format_inputs(ocr_test_file)
 
